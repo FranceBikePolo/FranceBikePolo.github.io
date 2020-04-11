@@ -17,8 +17,60 @@
       repo: '',
       loadSidebar: 'sidebar.md',
       
+     
+      
+      search: 'auto', // default
+
+      search : [
+      '/',            // => /README.md
+      'Section_1',
+      
+      ],
+
+    // complete configuration parameters
+      search: {
+      maxAge: 86400000, // Expiration time, the default one day
+      paths: 'auto', //[], // or 'auto'
+      placeholder: 'Type to search',
+
+      // Localization
+      placeholder: {
+        
+        '/': 'Recherche mot',
+        
+      },
+
+      noData: 'non trouvé (respecter les accents)',
+
+      // Localization
+      noData: {
+        
+        '/': 'non trouvé (respecter les accents)',
+      },
+
+      // Headline depth, 1 - 6
+      depth: 3,
+
+      hideOtherSidebarContent: true, // whether or not to hide other sidebar content
+
+      // To avoid search index collision
+      // between multiple websites under the same domain
+      namespace: 'website-1',
+    },
+        
+       pagination: {
+         previousText: 'Précédent',
+         nextText: 'Suivant',
+         crossChapter: true,
+         crossChapterText: true,
+  }
+
     }
   </script>
-  <script src="//unpkg.com/docsify/lib/docsify.min.js"></script>
+
+<script src="//cdn.jsdelivr.net/npm/docsify/lib/docsify.min.js"></script>
+<script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/search.min.js"></script>
+<script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/zoom-image.min.js"></script>
+<script src="//unpkg.com/docsify-pagination/dist/docsify-pagination.min.js"></script>
 </body>
 </html>
