@@ -14,4 +14,4 @@ ____
 * [Section 7 : Pénalités](Section_7.md)
 * [Section 8 : Procédure de pénalité](Section_8.md)
 ____
-* [Back to Website EHBA](https://eurobikepolo.com/)
+* [Aller sur le site EHBA](https://eurobikepolo.com/)
