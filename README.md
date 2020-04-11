@@ -1,5 +1,5 @@
 
-![Logo](img/logo_ehba_300x300.png)
+![Logo](img/logo_ehba_300x300.png ":no-zoom")
 
 ## REGLES 2018
 ### Révision 200324
