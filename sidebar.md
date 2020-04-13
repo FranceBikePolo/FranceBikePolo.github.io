@@ -14,5 +14,5 @@ ____
 * [Section 7 : Pénalités](Section_7.md)
 * [Section 8 : Procédure de pénalité](Section_8.md)
 ____
-* [Aller sur le Site France Bikepolo](FranceBikePolo.github.io)
+* [Aller sur le Site France Bikepolo](http://bikepolo.fr)
 * [Aller sur le site EHBA](https://eurobikepolo.com/)
