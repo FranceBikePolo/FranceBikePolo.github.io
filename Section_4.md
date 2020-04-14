@@ -1,5 +1,7 @@
 ## Section 4 : Action sur la balle
 
+___
+
 ### 4.1 Possession
 
 - 4.1.1 Le joueur qui a effectué le dernier touché de balle contrôlé et délibéré est considéré comme en possession de la balle. Ce joueur est identifié comme porteur de balle.
@@ -31,10 +33,10 @@
 - 4.5.1 Un scoop est défini comme une manœuvre de la balle avec n’importe quel trou de la tête de maillet en utilisant une force centripète afin de maintenir la balle dans ce trou.
 - 4.5.2 Le scooping est autorisé à une hauteur inférieure au guidon du joueur et de celui d’un adversaire s’il est à une distance de moins de 3m environ comme décrit en __6.4.3.3__.
 - 4.5.3 Le scooping n’est pas permis au-delà de trois (3) changements de direction.
-- 4.6 Porté
+### 4.6 Porté
 - 4.6.1 Un porté est défini comme un portage de la balle avec la tête de maillet par gravité.
 - 4.6.2 Le porté est interdit.
-- 4.7 Grabbing
+### 4.7 Grabbing
 - 4.7.1 Le grabbing est défini comme la tenue de la balle avec la main.
 - 4.7.2 Le grabbing est interdit.
     - 4.7.2.1 Un joueur peut utiliser sa main pour stopper une balle aérienne mais doit immédiatement la rediriger au sol en dessous du point d’interception.

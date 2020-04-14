@@ -1,5 +1,7 @@
 ## Section 2 : Installations de jeu
- 
+
+___
+
 ### 2.1 Court (terrain)
 
 - 2.1.1 Taille
@@ -20,9 +22,9 @@
         - 2.1.3.2.2 Un arc de cercle de 3 ± 0.25m doit être tracé au sol autour de chaque porte afin de matérialiser les zones de transition lors des changements de joueurs.
 - 2.1.4 Lignes
     - 2.1.4.1 Toutes les lignes doivent avoir une largeur de 5cm au maximum.
-    - 2.1.4.2 Le court doit être segmenté, sur la largeur complète par : 
-        ‐ Une ligne de milieu de court,
-        ‐ Deux lignes de but.
+    - 2.1.4.2 Le court doit être segmenté, sur la largeur complète par :  
+        ‐ Une ligne de milieu de court,  
+        ‐ Deux lignes de but.  
         - 2.1.4.2.1 Le point central du court doit être matérialisé afin d’y placer la balle pour les joutes.
     - 2.1.4.3 Les lignes de but doivent être parallèles aux boards de fond de court, à une distance comprise entre 3 et 4.5m de ces dernières.
         - 2.1.4.3.1 La distance entre les lignes de but ne peut pas être inférieure à 29+/-0.5m.
@@ -34,8 +36,8 @@
     - 2.1.5.2 Ces lignes seront à 0.75 ± 0.10m de chaque côté de la ligne de centre.
 - 2.1.6 Crease (zone de but)
     - 2.1.6.1 Une zone sera matérialisée devant la cage et sera désignée comme la crease.
-    - 2.1.6.2 La dimension de la crease est un demi-cercle de 3 ± 0.1m de rayon à partir du centre de la cage, coupé à 1.25 ± 0.1m de chaque marquage des poteaux. Voir Figure 1.
-        - 2.1.6.2.1 La crease peut être dessinée uniquement par des traits droits comme sur la Figure 2.
+    - 2.1.6.2 La dimension de la crease est un demi-cercle de 3 ± 0.1m de rayon à partir du centre de la cage, coupé à 1.25 ± 0.1m de chaque marquage des poteaux. Voir __Figure 1__.
+        - 2.1.6.2.1 La crease peut être dessinée uniquement par des traits droits comme sur la __Figure 2__.
 
 ### 2.2 Cages
 

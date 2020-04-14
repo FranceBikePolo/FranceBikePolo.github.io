@@ -1,5 +1,7 @@
 ## Section 5 : Déroulement du jeu
 
+___
+
 ### 5.1 Démarrage du jeu
 
 - 5.1.1 Les équipes se préparent à la joute comme décrit en __5.2__.
@@ -30,21 +32,21 @@
 
 - 5.3.1 L’arbitre principal arrête le jeu en sifflant.
     - 5.3.1.1 Une fois que l’arbitre a sifflé, le jeu doit s’arrêter, qu’importe les circonstances.
-- 5.3.2 Le jeu doit s’arrêter pour les raisons suivantes :
-    - But,
-    - Pénalité,
-    - Balle hors du jeu,
-    - Blessure,
-    - Cage renversée ou non alignée,
-    ‐ Time‐out
-    - Équipement dangereux.
+- 5.3.2 Le jeu doit s’arrêter pour les raisons suivantes :  
+  ‐ But,  
+  ‐ Pénalité,  
+  ‐ Balle hors du jeu,  
+  ‐ Blessure,  
+  ‐ Cage renversée ou non alignée,  
+  ‐ Time‐out  
+  ‐ Équipement dangereux.  
 - 5.3.3 Les équipes doivent arrêter de jouer et retourner dans leur moitié de court dans les dix (10) secondes après un coup de sifflet.
 - 5.3.4 Format 3v3 
     - 5.3.4.1 L’assistant arrête le chronomètre à chaque arrêt de jeu.
 - 5.3.5 Format Squad 
-    - 5.3.5.1 Le chronomètre continue de tourner sauf dans les cas suivants :
-        - Blessure,
-        - Time‐out.
+    - 5.3.5.1 Le chronomètre continue de tourner sauf dans les cas suivants :  
+  ‐ Blessure,  
+  ‐ Time‐out.  
         - 5.3.5.1.1 Pendant les deux (2) dernières minutes de jeu, l’assistant arrête le chronomètre à chaque arrêt de jeu.
 
                      
@@ -52,8 +54,8 @@
 
 - 5.4.1 L’arbitre principal doit obtenir, de la part de l’équipe qui n’a pas la possession, une confirmation verbale ou visuelle signifiant qu’elle est prête à jouer.
     - 5.4.1.1 L’arbitre principal peut siffler deux petits coups pour obtenir la confirmation.
-    - 5.4.1.2 Si l’équipe qui n’a pas la possession n’indique pas être prête en dix (10) secondes, une faute de retard de jeu est sifflée comme décrit en 6.1.1.
-- 5.4.2 Après la confirmation, l’arbitre principal indique que le jeu peut reprendre comme décrit en 3.5.1.2 et annonce « 10 secondes pour traverser ».
+    - 5.4.1.2 Si l’équipe qui n’a pas la possession n’indique pas être prête en dix (10) secondes, une faute de retard de jeu est sifflée comme décrit en __6.1.1__.
+- 5.4.2 Après la confirmation, l’arbitre principal indique que le jeu peut reprendre comme décrit en __3.5.1.2__ et annonce « 10 secondes pour traverser ».
     - 5.4.2.1 Si l’équipe avec la possession ne commence pas à jouer dans les dix (10) secondes après que l’adversaire ait confirmé être prêt, l’adversaire peut commencer à jouer en franchissant la ligne de milieu de court.
         - 5.4.2.1.1 L’arbitre principal annonce “game on”.
         - 5.4.2.1.2 L’assistant redémarre le chronomètre à ce moment-là. 
@@ -128,7 +130,7 @@
 - 5.10.3 Pendant le jeu, une équipe peut demander un timeout lorsqu’elle est en possession de la balle en annonçant à voix haute “timeout” de manière audible à l’arbitre principal.
     - 5.10.3.1 L’équipe perd la possession au profit de son adversaire.
         - 5.10.3.1.1 Les timeouts demandés pendant le jeu pour balle cassée ou joueur blessé nécessitant une assistance immédiate, ne font pas perdre la possession de la balle lorsque le jeu doit reprendre. De plus, ces timeouts ne sont pas décomptés des deux (2) timeouts disponibles.
-    - 5.10.3.2 Les arbitres de but et assistants peuvent signaler les demandes de timeouts comme défini en _3.5.2.4__.
+    - 5.10.3.2 Les arbitres de but et assistants peuvent signaler les demandes de timeouts comme défini en __3.5.2.4__.
 - 5.10.4 A la fin d’un timeout, ou quand l’équipe qui a demandé le timeout indique être prête, le jeu reprend comme défini en __5.4__.
 - 5.10.5 Format 3v3
     - 5.10.5.1 Un problème mécanique causé par l’équipe adverse et nécessitant une réparation du vélo ou de l’équipement donne droit à un timeout de cinq (5) minutes par l’arbitre principal.
