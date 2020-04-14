@@ -2,8 +2,7 @@
 
 ___
 
-### 6.1 Fautes techniques
-
+### 6.1 Fautes techniques  
 - 6.1.1 Retard de jeu
    - 6.1.1.1 Une équipe empêche le redémarrage du jeu tel que défini en __5.4__.
       - 6.1.1.1.1 S’il s’agit de la première infraction, une faute personnelle est automatiquement attribuée au capitaine.
@@ -12,23 +11,23 @@ ___
     - 6.1.1.3 Un joueur scoope et/ou jette volontairement la balle en dehors du jeu.
     - 6.1.1.4 Un joueur bouge volontairement une cage comme défini en __5.11__.
 
-- 6.1.2 Comportement antisportif
-    - 6.1.2.1 Un joueur est considéré comme ayant un comportement anti sportif dans les cas suivants (liste non exhaustive) :
-  ‐ Protestation excessive contre les officiels,
-  ‐ Jeu volontaire après avoir dabbé comme défini en __6.2.1__,
-  ‐ Échec à se retirer du jeu après avoir dabbé, avec comme conséquence un avantage pour son équipe,
-  ‐ Contact ou empêchement de mouvement ou de récupération de matériel sur un joueur qui a dabbé,
-  ‐ Création d’un avantage injuste pour son équipe.
+- 6.1.2 Comportement antisportif  
+    - 6.1.2.1 Un joueur est considéré comme ayant un comportement anti sportif dans les cas suivants (liste non exhaustive) :  
+  ‐ Protestation excessive contre les officiels,  
+  ‐ Jeu volontaire après avoir dabbé comme défini en __6.2.1__ ,  
+  ‐ Echec à se retirer du jeu après avoir dabbé, avec comme conséquence un avantage pour son équipe,  
+  ‐ Contact ou empêchement de mouvement ou de récupération de matériel sur un joueur qui a dabbé,  
+  ‐ Création d’un avantage injuste pour son équipe.  
         - 6.1.2.1.1 Bouger le maillet au sol d’un joueur qui a dabbé qui interfère avec le jeu n’est pas considéré comme un comportement antisportif comme défini en 6.4.8.2.2.
     - 6.1.2.2 Le comportement antisportif peut conduire à une pénalité mineure, à une pénalité majeure ou à une pénalité de mauvaise conduite de joueur.
         - 6.1.2.2.1 Un joueur agressant verbalement ou physiquement un officiel du jeu, un organisateur de l’évènement, un spectateur ou un autre joueur sera automatiquement sanctionné d’une pénalité de mauvaise conduite de joueur.
 
 - 6.1.3 Interférence
     - 6.1.3.1 Interférence de vélo
-        - 6.1.3.1.1 L’interférence de vélo, « faire écran » ou encore « faire un bloc » est définie comme l’utilisation du mouvement et la position du vélo de manière à empêcher de manière abrupte et/ou continuelle un adversaire qui n’a pas la possession de la balle dans le but :
-  ‐ D’atteindre une position défensive ou offensive sur le court,
-  ‐ De prendre une trajectoire directe vers une balle perdue,
-  ‐ De disputer la balle au porteur de balle.
+        - 6.1.3.1.1 L’interférence de vélo, « faire écran » ou encore « faire un bloc » est définie comme l’utilisation du mouvement et la position du vélo de manière à empêcher de manière abrupte et/ou continuelle un adversaire qui n’a pas la possession de la balle dans le but :  
+  ‐ D’atteindre une position défensive ou offensive sur le court,  
+  ‐ De prendre une trajectoire directe vers une balle perdue,  
+  ‐ De disputer la balle au porteur de balle.  
             - 6.1.3.1.1.1 Une faute d’interférence de vélo est sifflée quand un joueur qui n’est pas en possession fait écran à un adversaire qui n’est pas non plus en possession.
 
         - 6.1.3.1.2 Tous les joueurs qui ne sont pas en possession ont droit à l’espace qu’ils occupent.
@@ -58,7 +57,6 @@ ___
         - 6.1.4.4.1 Les fautes de crease suivantes sont sanctionnées d’une pénalité mineure, quel que soit le joueur de l’équipe qui commet la faute.
     - 6.1.4.5 Si la faute de crease est commise alors que l’adversaire a une occasion franche de marquer par un tir, une passe ou une balle perdue dans ou proche de la crease, une pénalité mineure est donnée immédiatement même s’il s’agit de la première faute de crease.
         - 6.1.4.5.1 Les fautes de crease suivantes sur une opportunité franche de marquer un but sont sanctionnées d’une pénalité majeure, quel que soit le joueur de l’équipe qui commet la faute.
-
 - 6.1.5 Changement illégal – Format squad
     - 6.1.5.1 Un joueur quittant le court doit avoir au moins une roue dans la zone de transition autour de la porte de son équipe avant que le joueur entrant puisse pénétrer dans le court.
     - 6.1.5.2 Lors du changement, les joueurs dans la zone de transition autour de la porte de leur équipe ne doivent pas interférer activement avec la balle ou un joueur adverse.
@@ -122,19 +120,19 @@ ___
 - 6.4.1 Maniement illégal de la balle
     - 6.4.1.1 Une faute de maniement illégal de balle est sifflée lorsque le jeu sur la balle n’est pas permis tel que décrit en __Section 4__.
 - 6.4.2 Slashing
-    - 6.4.2.1 Une faute de slashing est sifflée lorsqu’un joueur frappe le maillet ou le corps de son adversaire vers le haut, vers le bas ou sur le côté tel qu’il s’agisse :
-  ‐ D’une réponse disproportionnée ou violente comparé à un jeu normal,
-  ‐ D’un mouvement qui peut amener des dégâts ou une blessure.
-        6.4.2.1.1 Une faute de slashing peut être sifflée sans que le contact avec le vélo ou le corps de l’adversaire ait effectivement eu lieu.
+    - 6.4.2.1 Une faute de slashing est sifflée lorsqu’un joueur frappe le maillet ou le corps de son adversaire vers le haut, vers le bas ou sur le côté tel qu’il s’agisse :  
+  ‐ D’une réponse disproportionnée ou violente comparé à un jeu normal,  
+  ‐ D’un mouvement qui peut amener des dégâts ou une blessure.  
+        - 6.4.2.1.1 Une faute de slashing peut être sifflée sans que le contact avec le vélo ou le corps de l’adversaire ait effectivement eu lieu.
 - 6.4.3 Maillet haut
     - 6.4.3.1 Une faute de maillet haut est sifflée lorsqu’un joueur essaie de toucher une balle aérienne en levant son maillet au-dessus du guidon d’un adversaire qui se trouve à moins de 3m de lui.
         - 6.4.3.1.1 Un joueur à une distance sûre, 3m ou plus, de son adversaire le plus proche peut lever son maillet sans mouvement de balayage ou de frappe pour rediriger la balle au sol directement sous son maillet.
         - 6.4.3.1.2 Un joueur peut utiliser sa main, avec son maillet pointant vers le bas, pour toucher une balle aérienne tel que défini en __4.7.2.1__.
     - 6.4.3.2 Une faute de maillet haut est sifflée sur tous les contacts entre le maillet d’un joueur et le corps, au-dessus de l’épaule, de son adversaire.
     - 6.4.3.3 Une faute de maillet haut est sifflée si un scoop est effectué au-dessus du guidon du joueur ou au-dessus du guidon de son adversaire le plus proche s’il est situé à moins de 3m.
-    - 6.4.3.4 L’élévation du maillet au-dessus du guidon de l’adversaire suite à un mouvement de tir normal n’est considérée comme une faute de maillet haut que si l’arbitre principal considère que le maillet est dangereux ou incontrôlé comme dans les situations suivantes : 
-  ‐ Si le tir implique une rotation complète du maillet depuis une hauteur supérieure à la tête du tireur jusque vers le sol, 
-  ‐ Si le maillet passe au-dessus du guidon à la suite d’une frappe en revers.
+    - 6.4.3.4 L’élévation du maillet au-dessus du guidon de l’adversaire suite à un mouvement de tir normal n’est considérée comme une faute de maillet haut que si l’arbitre principal considère que le maillet est dangereux ou incontrôlé comme dans les situations suivantes :  
+  ‐ Si le tir implique une rotation complète du maillet depuis une hauteur supérieure à la tête du tireur jusque vers le sol,  
+  ‐ Si le maillet passe au-dessus du guidon à la suite d’une frappe en revers.  
 
 - 6.4.4 Jamming
     - 6.4.4.1 Une faute de jamming est sifflée lorsqu’un joueur fait dabber ou chuter un adversaire en plaçant son maillet sous sa roue avant ou arrière.
